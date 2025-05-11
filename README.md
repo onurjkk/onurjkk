@@ -13,7 +13,6 @@
 <br>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
 
 <p align="center">
   <h3 style="font-weight: bold; font-size: 18px">My Interests</h3>
