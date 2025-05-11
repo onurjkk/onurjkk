@@ -15,7 +15,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
 
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
-    [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
-</details>
+<p align="center">
+  <h3 style="font-weight: bold; font-size: 18px">My Interests</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java" />
+  </a>
+</p>
