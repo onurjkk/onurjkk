@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, im onur_ 💥</h2>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, im onur_ 🔥💀</h2>
 
 <div align="center">
 
